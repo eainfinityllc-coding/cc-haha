@@ -41,6 +41,10 @@ desktop/brand-assets/
 # Claude local config & auto-generated
 .claude/
 
+# Local-only agent notes & lockfile (keep on your machine; not shared via git)
+bun.lock
+CLAUDE.local.md
+
 # Superpowers plans & specs (local only)
 docs/superpowers/
 .superpowers/
